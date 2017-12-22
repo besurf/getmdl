@@ -1,0 +1,16 @@
+#spin-div{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    display: felx;
+    background: white;
+    z-index: 1;
+
+}
+
+#spin{
+   position: absolute;
+   margin: auto;
+    
+}
